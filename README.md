@@ -1,5 +1,5 @@
 # Backend posapp 
-RESTful API posapp
+RESTful API School
 
 # TABLE OF CONTENTS
 
